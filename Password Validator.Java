@@ -214,9 +214,7 @@ public class UserInterface
             }
 
         }
-
         return count;
-
     }
 
 }
